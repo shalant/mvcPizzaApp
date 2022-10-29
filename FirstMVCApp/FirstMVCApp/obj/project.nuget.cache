@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qxQWKee0QdTu7NS6P2rs5DTEppV6JVuyzESypmIk3La2k4dLXsV0ILVcscA/RmKGaFPfDHXORVn1MEs5LSwXYA==",
+  "dgSpecHash": "xv/2s2eD5yOOjcQIYVlVDLyBYiv4qx81oCe47U4STbOLmY59xwOwQjRSNLji+Aqc/1A0CnrpfrDOw94gCU0muw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digdr\\Desktop\\coding\\InventoryBlazor.NET\\FirstMVCApp\\FirstMVCApp\\FirstMVCApp.csproj",
+  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\mvcPizzaApp\\FirstMVCApp\\FirstMVCApp\\FirstMVCApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
