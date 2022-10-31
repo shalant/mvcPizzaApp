@@ -14,7 +14,7 @@ namespace RazorPizzeria.Pages.Forms
         {
         }
 
-        public IActionResult onPost()
+        public IActionResult OnPost()
         {
             PizzaPrice = Pizza.BasePrice;
 

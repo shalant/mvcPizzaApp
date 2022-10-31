@@ -7,7 +7,7 @@ namespace RazorPizzeria.Pages.Checkout
     public class CheckoutModel : PageModel
     {
         public string PizzaName { get; set; }
-        public float PizzaModel  { get; set; }
+        public float PizzaPrice  { get; set; }
         public string ImageTitle { get; set; }
 
         public void OnGet()
