@@ -28,15 +28,15 @@ namespace RazorPizzeria.Pages
             },
             new PizzasModel(){
                 ImageTitle="Carbonara",
-                PizzaName="Margerita",
+                PizzaName="Carbonara",
                 BasePrice=2,
                 TomatoSauce=true,
                 Cheese=true,
                 FinalPrice=4
             },
             new PizzasModel(){
-                ImageTitle="MeatFest",
-                PizzaName="Margerita",
+                ImageTitle="MeatFeast",
+                PizzaName="MeatFeast",
                 BasePrice=2,
                 TomatoSauce=true,
                 Cheese=true,
